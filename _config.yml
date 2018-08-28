@@ -6,8 +6,8 @@ description: >
 copyright: Untitled
 sass:
   sass_dir: assets/sass
-url: http://localhost:4000
-disqus_shortname: stratajekylldemo
+url: https://dylanrunkel.com
+disqus_shortname: 
 facebook_username:
 twitter_username: "#"
 linkedin_username: "#"
