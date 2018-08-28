@@ -6,8 +6,9 @@ sass:
   sass_dir: assets/sass
 url: https://dylanrunkel.github.io
 linkedin_username: "dylanrunkel"
-github_username:  "drunkel"
 stackoverflow_uid: "2324024"
+github_username:  "drunkel"
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
+
